@@ -17,7 +17,7 @@ const tarefas = [
   {
     titulo: 'Ir pra academia',
     descricao: 'Fazer supino',
-    prioridade: 'importante',
+    prioridade: 'normal',
     status: 'pendente'
   }
 ]
